@@ -1,0 +1,14 @@
+C:\Users\jacob\source\repos\inharitance\obj\Debug\netcoreapp3.1\inharitance.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\inharitance\obj\Debug\netcoreapp3.1\inharitance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\inharitance\obj\Debug\netcoreapp3.1\inharitance.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\inharitance\obj\Debug\netcoreapp3.1\inharitance.AssemblyInfo.cs
+C:\Users\jacob\source\repos\inharitance\obj\Debug\netcoreapp3.1\inharitance.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\inharitance\bin\Debug\netcoreapp3.1\inharitance.exe
+C:\Users\jacob\source\repos\inharitance\bin\Debug\netcoreapp3.1\inharitance.deps.json
+C:\Users\jacob\source\repos\inharitance\bin\Debug\netcoreapp3.1\inharitance.runtimeconfig.json
+C:\Users\jacob\source\repos\inharitance\bin\Debug\netcoreapp3.1\inharitance.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\inharitance\bin\Debug\netcoreapp3.1\inharitance.dll
+C:\Users\jacob\source\repos\inharitance\bin\Debug\netcoreapp3.1\inharitance.pdb
+C:\Users\jacob\source\repos\inharitance\obj\Debug\netcoreapp3.1\inharitance.dll
+C:\Users\jacob\source\repos\inharitance\obj\Debug\netcoreapp3.1\inharitance.pdb
+C:\Users\jacob\source\repos\inharitance\obj\Debug\netcoreapp3.1\inharitance.genruntimeconfig.cache
